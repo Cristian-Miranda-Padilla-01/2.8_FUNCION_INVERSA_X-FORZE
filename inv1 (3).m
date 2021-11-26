@@ -18,3 +18,4 @@ grid on;
 title("FUNCION INVERSA");
 ylabel("f(y)=(5.*x-3)./(x + 2)");
 xlabel("f(x)=(2.*x+3)./(5-x)");
+
