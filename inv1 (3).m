@@ -2,7 +2,7 @@
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
 %Specialty             :Ingeneria en Sistemas Computacionales 
 % Title                :Funcione inversa
-% Author               :FERNANDO ANGEL,CRISTIAN PADILLA,AMBAR ITZEL,MORA GARCIA,GABRIEL CUADRA,ANGELICA ARELLANO VILCHIZ
+% Author               :FERNANDO ANGEL,CRISTIAN PADILLA,AMBAR ITZEL,MORA GARCIA,GABRIEL HERNANDEZ CUADRA,ANGELICA ARELLANO VILCHIZ
 % Date                 :25/11/2021
 %Grupo                 :3101
 %Limpiamos variables
@@ -18,4 +18,3 @@ grid on;
 title("FUNCION INVERSA");
 ylabel("f(y)=(5.*x-3)./(x + 2)");
 xlabel("f(x)=(2.*x+3)./(5-x)");
-
