@@ -2,7 +2,7 @@
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
 %Specialty             :Ingeneria en Sistemas Computacionales 
 % Title                :Funcione inversa
-% Author               : Fernando Angel Garcia,CRISTIAN PADILLA,AMBAR ITZEL,MORA GARCIA,GABRIEL HERNANDEZ CUADRA,ANGELICA ARELLANO VILCHIZ
+% Author               : Fernando Angel Garcia,CRISTIAN PADILLA,AMBAR ITZEL,MORA GARCIA IVAN,GABRIEL HERNANDEZ CUADRA,ANGELICA ARELLANO VILCHIZ
 % Date                 :25/11/2021
 %Grupo                 :3101
 
